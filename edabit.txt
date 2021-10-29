@@ -1,0 +1,10 @@
+1. Bitwise operations
+2. Add up the Numbers from a single number 
+3. Matchstick House
+4. Left Shift by Powers of Two
+5. Find the Smallest and biggest numbers
+6. Is it time for milk and cookies 
+7. Which Function Returns the larger number 
+8. Convert a Number to Base-2 
+9. Check if One Array can be Nested in antoher
+10. What's Hiding Amongst the Crowd?
