@@ -8,3 +8,4 @@
 8. Convert a Number to Base-2 
 9. Check if One Array can be Nested in antoher
 10. What's Hiding Amongst the Crowd?
+11. Slightly Superior
