@@ -79,3 +79,31 @@
 //     return arr1 > arr2;
 // }
 // console.log(isFirstSuperior([1, 2, 3, 4], [1, 2, 3, 5]));
+
+// function charCount(char, str) {
+//     let count = 0;
+//     for (const i of str) {
+//         if (i.indexOf(char) !== -1) {
+//             count += 1;
+//         }
+//     }
+//     return count;
+// }
+// const a = charCount('a', 'edabait');
+// console.log(a);
+
+// function highestDigit(num) {
+//     num.toString();
+//     return Math.max(...num);
+// }
+
+// const highestDigit2 = (number) => {
+//     const num = number.toString();
+//     return Math.max(...num);
+// };
+
+// const highestDigit = (number) => Math.max(...`${number}`);
+// console.log(highestDigit(2345));
+// console.log(highestDigit2(234535365376457457457));
+
+const getOnlyEvens = (arr) => arr.filter((number, index) => number % 2 === 0 && index % 2 === 0);

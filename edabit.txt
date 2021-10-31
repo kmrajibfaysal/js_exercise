@@ -9,3 +9,6 @@
 9. Check if One Array can be Nested in antoher
 10. What's Hiding Amongst the Crowd?
 11. Slightly Superior
+12. Count Instances of a Character in a string
+13. Is it true?
+14. 
